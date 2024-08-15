@@ -6,7 +6,7 @@ This app uses the FLUX.1 Schnell model to generate high-quality images based on 
 
 Here are some examples of what you can create with this app:
 
-### Create a banner can show Budapest as a popular touris destination
+### Create a banner can show Budapest as a popular tourist destination
 
 ![Tech startup logo](budapest.png)
 
