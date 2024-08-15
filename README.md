@@ -1,6 +1,7 @@
 # FLUX.1 Schnell Marketing Assistant
 
-This app uses the FLUX.1 Schnell model to generate high-quality images based on your prompt. Use it to create new logos, social media content, marketing advertisements, and more.
+* This app uses the FLUX.1 Schnell model to generate high-quality images based on your prompt. Use it to create new logos, social media content, marketing advertisements, and more.
+* link to app in Hugging face: https://huggingface.co/spaces/arad1367/FLUX.1_For_Marketing_Advertising
 
 ## Examples
 
