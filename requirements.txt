@@ -2,6 +2,6 @@ accelerate
 git+https://github.com/huggingface/diffusers.git
 invisible_watermark
 torch
-transformers==4.42.4
+transformers==4.50.0
 xformers
 sentencepiece
